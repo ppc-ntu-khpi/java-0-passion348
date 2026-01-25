@@ -1,8 +1,8 @@
 public class Shirt {
-  public int shirtID = 0;
-  public String description = "-description required-";
+  public int shirtID = 5;
+  public String description = "-крута сорочка для козакiв-";
   public char colorCode = 'U';
-  public double price = 0.0;
+  public double price = 129.67;
   public int quantityInStock = 0;
   
   public void displayShirtInformation() {
